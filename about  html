@@ -5,14 +5,12 @@
 a {
 text-decoration: none;
 }
-
 body {
 background-color: #EAD7F9;
 }
 h1 {
 font-family: 'Raleway', sans-serif;
 color: #383838;
-
 }
 h2 {
 font-family:'Benchnine', sans-serif;
