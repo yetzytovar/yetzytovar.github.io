@@ -1,6 +1,37 @@
 <!DOCTYPE html>
+<head>
+<title>About me</title>
+<style>
+a {
+text-decoration: none;
+}
 
-<img src="http://i.imgur.com/qKnuJ2a.gif">
-about me
-i am a graphic design student 
-<a href="index.html">home</a>
+body {
+background-color: #EAD7F9;
+}
+h1 {
+font-family: 'Raleway', sans-serif;
+color: #383838;
+
+}
+h2 {
+font-family:'Benchnine', sans-serif;
+}
+p {
+font-family:'Nixie One', cursive;
+}
+</style>
+</head>
+<body>
+<a href="index.html">Home</a> | <a href="contact.html">Contact Information</a>
+<br>
+<br>
+<br>
+<img src="http://i.imgur.com/3KOrMvF.gif" width="100" alt="Yetzy Tovar">
+<article>
+<h1>About Me</h1>
+
+<img src="http://ih0.redbubble.net/image.30757027.3960/flat,550x550,075,f.u1.jpg" alt="Yetzy Tovar" width="150">
+
+<p>
+I am an Venezuelan graphic designer based in Miami.</p></article>
